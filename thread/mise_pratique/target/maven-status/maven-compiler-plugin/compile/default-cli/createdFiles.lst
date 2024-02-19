@@ -1,0 +1,13 @@
+g54720\sortingrace\model\Merge.class
+g54720\sortingrace\model\SortInfo.class
+g54720\sortingrace\model\Type.class
+g54720\sortingrace\Main.class
+g54720\sortingrace\model\SortingThread.class
+g54720\sortingrace\model\SizeSort.class
+g54720\sortingrace\model\Bubble.class
+g54720\sortingrace\model\Sort.class
+g54720\sortingrace\util\Observer.class
+g54720\sortingrace\model\DataGenerator.class
+g54720\sortingrace\controller\Facade.class
+g54720\sortingrace\view\FxmlController.class
+g54720\sortingrace\util\Observable.class

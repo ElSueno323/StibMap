@@ -1,0 +1,3 @@
++enelevr de moduleinfo
++pom:   -enlevre jupite...
+	-modfi javafx 19->17.0.2 
